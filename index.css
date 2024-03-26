@@ -221,6 +221,7 @@
   flex: 1;
   flex-direction: row;
   max-width: 100%;
+
 }
 .section-icon5 {
   height: 37.75rem;
@@ -348,7 +349,8 @@
   justify-content: flex-start;
 }
 .frame-container {
-  padding: 0 0 5rem;
+  padding: 0 0 2rem;
+  width: 74.375rem;
   box-sizing: border-box;
 }
 .instagram-link,
