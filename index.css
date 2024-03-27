@@ -1212,8 +1212,8 @@
   align-items: flex-end;
   justify-content: flex-start;
   padding: 1.688rem var(--padding-346xl) 8.938rem 2.656rem;
-  gap: 10.656rem;
-  text-align: left;
+  gap: 6.656rem;
+  text-align: center;
   font-size: var(--font-size-sm);
   color: var(--color-white);
   font-family: var(--font-inter);
@@ -1296,7 +1296,7 @@
     gap: 2.938rem 5.938rem;
   }
   .info-block{
-    opacity: 0;
+    opacity: 0;   
   }
   .logo-1-parent {
     padding-bottom: 11.188rem;
